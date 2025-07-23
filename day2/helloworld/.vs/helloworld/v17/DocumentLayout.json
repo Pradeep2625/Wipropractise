@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D6A17-38F8-48AA-A997-CC13298DD823}|helloworld\\helloworld.csproj|d:\\onedrive\\desktop\\wipro\\helloworld\\helloworld\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D6A17-38F8-48AA-A997-CC13298DD823}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D6A17-38F8-48AA-A997-CC13298DD823}|helloworld\\helloworld.csproj|d:\\onedrive\\desktop\\wipro\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D6A17-38F8-48AA-A997-CC13298DD823}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47D6A17-38F8-48AA-A997-CC13298DD823}|helloworld\\helloworld.csproj|d:\\onedrive\\desktop\\wipro\\helloworld\\helloworld\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47D6A17-38F8-48AA-A997-CC13298DD823}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\helloworld\\Factorial.cs",
+              "RelativeDocumentMoniker": "helloworld\\Factorial.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\helloworld\\Factorial.cs",
+              "RelativeToolTip": "helloworld\\Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:11:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\helloworld\\Calculator.cs",
+              "RelativeDocumentMoniker": "helloworld\\Calculator.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\helloworld\\Calculator.cs",
+              "RelativeToolTip": "helloworld\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:34:14.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\helloworld\\Program.cs",
+              "RelativeDocumentMoniker": "helloworld\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\wipro\\helloworld\\helloworld\\Program.cs",
+              "RelativeToolTip": "helloworld\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:32:37.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

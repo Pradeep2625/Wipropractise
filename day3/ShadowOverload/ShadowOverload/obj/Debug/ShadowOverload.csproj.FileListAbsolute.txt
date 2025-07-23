@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\bin\Debug\ShadowOverload.exe.config
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\bin\Debug\ShadowOverload.exe
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\bin\Debug\ShadowOverload.pdb
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\obj\Debug\ShadowOverload.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\obj\Debug\ShadowOverload.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\obj\Debug\ShadowOverload.exe
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\obj\Debug\ShadowOverload.pdb
+D:\OneDrive\Desktop\wipro\day3\ShadowOverload\ShadowOverload\obj\Debug\ShadowOverload.exe.config

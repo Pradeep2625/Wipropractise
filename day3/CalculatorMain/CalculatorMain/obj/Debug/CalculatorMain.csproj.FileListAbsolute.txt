@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorMain\bin\Debug\CalculatorMain.dll
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorMain\bin\Debug\CalculatorMain.pdb
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorMain\obj\Debug\CalculatorMain.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorMain\obj\Debug\CalculatorMain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorMain\obj\Debug\CalculatorMain.dll
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorMain\obj\Debug\CalculatorMain.pdb

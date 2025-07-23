@@ -1,0 +1,7 @@
+D:\OneDrive\Desktop\wipro\day2\day2\bin\Debug\day2.exe.config
+D:\OneDrive\Desktop\wipro\day2\day2\bin\Debug\day2.exe
+D:\OneDrive\Desktop\wipro\day2\day2\bin\Debug\day2.pdb
+D:\OneDrive\Desktop\wipro\day2\day2\obj\Debug\day2.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\wipro\day2\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\wipro\day2\day2\obj\Debug\day2.exe
+D:\OneDrive\Desktop\wipro\day2\day2\obj\Debug\day2.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\bin\Debug\CalculatorClient.exe
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\bin\Debug\CalculatorClient.pdb
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\bin\Debug\CalculatorMain.dll
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\bin\Debug\CalculatorMain.pdb
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\obj\Debug\Calculat.C5BD52FA.Up2Date
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\obj\Debug\CalculatorClient.exe
+D:\OneDrive\Desktop\wipro\day3\CalculatorMain\CalculatorClient\obj\Debug\CalculatorClient.pdb
