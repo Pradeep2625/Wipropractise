@@ -1,0 +1,9 @@
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\bin\Debug\Agent.Dal.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\bin\Debug\Agent.Dal.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\bin\Debug\AgentApplication.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\bin\Debug\AgentApplication.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\obj\Debug\Agent.Dal.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\obj\Debug\Agent.Dal.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\obj\Debug\Agent.Dal.csproj.Up2Date
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\obj\Debug\Agent.Dal.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Dal\obj\Debug\Agent.Dal.pdb

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76B371-43BD-4315-AC89-AE1450D7E27F}|Agent.Dal\\Agent.Dal.csproj|d:\\onedrive\\desktop\\wipropractise\\agentapplication\\agent.dal\\agentimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76B371-43BD-4315-AC89-AE1450D7E27F}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\agentimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B5E8AD-76CD-4BC3-9BEB-713B40A50109}|Agent.Bal\\Agent.Bal.csproj|d:\\onedrive\\desktop\\wipropractise\\agentapplication\\agent.bal\\agentbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B5E8AD-76CD-4BC3-9BEB-713B40A50109}|Agent.Bal\\Agent.Bal.csproj|solutionrelative:agent.bal\\agentbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA76B371-43BD-4315-AC89-AE1450D7E27F}|Agent.Dal\\Agent.Dal.csproj|D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\agent.dal\\iagentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA76B371-43BD-4315-AC89-AE1450D7E27F}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\iagentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898FE79B-F171-40A6-BEB7-8F5ADCAC2C40}|AgentApplication\\AgentApplication.csproj|D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\agentapplication\\agentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898FE79B-F171-40A6-BEB7-8F5ADCAC2C40}|AgentApplication\\AgentApplication.csproj|solutionrelative:agentapplication\\agentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32DA88-9EC8-45DF-9698-46B1A5F880E3}|Agent.Main\\Agent.Main.csproj|d:\\onedrive\\desktop\\wipropractise\\agentapplication\\agent.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32DA88-9EC8-45DF-9698-46B1A5F880E3}|Agent.Main\\Agent.Main.csproj|solutionrelative:agent.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E953EDE-9D6E-4373-9B4B-9E4DFDD52E61}|Agent.Exceptions\\Agent.Exceptions.csproj|D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\agent.exceptions\\agentexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E953EDE-9D6E-4373-9B4B-9E4DFDD52E61}|Agent.Exceptions\\Agent.Exceptions.csproj|solutionrelative:agent.exceptions\\agentexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Agent.Main||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32DA88-9EC8-45DF-9698-46B1A5F880E3}|Agent.Main\\Agent.Main.csproj|d:\\onedrive\\desktop\\wipropractise\\agentapplication\\agent.main\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agent.Main",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Main\\Agent.Main.csproj",
+              "RelativeDocumentMoniker": "Agent.Main\\Agent.Main.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Main\\Agent.Main.csproj",
+              "RelativeToolTip": "Agent.Main\\Agent.Main.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T16:36:11.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Main\\Program.cs",
+              "RelativeDocumentMoniker": "Agent.Main\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Main\\Program.cs",
+              "RelativeToolTip": "Agent.Main\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:03:55.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentBal.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Bal\\AgentBal.cs",
+              "RelativeDocumentMoniker": "Agent.Bal\\AgentBal.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Bal\\AgentBal.cs",
+              "RelativeToolTip": "Agent.Bal\\AgentBal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T15:25:39.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAgentdao.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Dal\\IAgentdao.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\IAgentdao.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Dal\\IAgentdao.cs",
+              "RelativeToolTip": "Agent.Dal\\IAgentdao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:58:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentImpl.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Dal\\AgentImpl.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\AgentImpl.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Dal\\AgentImpl.cs",
+              "RelativeToolTip": "Agent.Dal\\AgentImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:57:48.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentExceptions.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Exceptions\\AgentExceptions.cs",
+              "RelativeDocumentMoniker": "Agent.Exceptions\\AgentExceptions.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\Agent.Exceptions\\AgentExceptions.cs",
+              "RelativeToolTip": "Agent.Exceptions\\AgentExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:54:54.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentModels.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\AgentApplication\\AgentModels.cs",
+              "RelativeDocumentMoniker": "AgentApplication\\AgentModels.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\AgentApplication\\AgentApplication\\AgentModels.cs",
+              "RelativeToolTip": "AgentApplication\\AgentModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:49:09.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

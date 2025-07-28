@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\bin\Debug\Operators.exe.config
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\bin\Debug\Operators.exe
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\bin\Debug\Operators.pdb
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\obj\Debug\Operators.exe
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\obj\Debug\Operators.pdb
+D:\OneDrive\Desktop\Wipropractise\day1\Operators\Operators\obj\Debug\Operators.exe.config

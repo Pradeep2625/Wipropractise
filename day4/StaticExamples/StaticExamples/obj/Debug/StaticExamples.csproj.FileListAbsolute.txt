@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\bin\Debug\StaticExamples.exe.config
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\bin\Debug\StaticExamples.exe
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\bin\Debug\StaticExamples.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\obj\Debug\StaticExamples.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\obj\Debug\StaticExamples.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\obj\Debug\StaticExamples.exe
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\obj\Debug\StaticExamples.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\StaticExamples\StaticExamples\obj\Debug\StaticExamples.exe.config

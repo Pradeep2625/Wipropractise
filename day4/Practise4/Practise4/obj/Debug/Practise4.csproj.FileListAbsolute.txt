@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\bin\Debug\Practise4.exe.config
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\bin\Debug\Practise4.exe
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\bin\Debug\Practise4.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\obj\Debug\Practise4.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\obj\Debug\Practise4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\obj\Debug\Practise4.exe
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\obj\Debug\Practise4.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\Practise4\Practise4\obj\Debug\Practise4.exe.config

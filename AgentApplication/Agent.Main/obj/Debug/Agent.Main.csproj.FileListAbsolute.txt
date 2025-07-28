@@ -1,0 +1,17 @@
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Main.exe.config
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Main.exe
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Main.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Dal.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Exceptions.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\AgentApplication.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Dal.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Exceptions.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\AgentApplication.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\obj\Debug\Agent.Main.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\obj\Debug\Agent.Main.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\obj\Debug\Agent.Main.csproj.Up2Date
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\obj\Debug\Agent.Main.exe
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\obj\Debug\Agent.Main.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Bal.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\bin\Debug\Agent.Bal.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Main\obj\Debug\Agent.Main.exe.config

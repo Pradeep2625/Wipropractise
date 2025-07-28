@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Exceptions\bin\Debug\Agent.Exceptions.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Exceptions\bin\Debug\Agent.Exceptions.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Exceptions\obj\Debug\Agent.Exceptions.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Exceptions\obj\Debug\Agent.Exceptions.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Exceptions\obj\Debug\Agent.Exceptions.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\Agent.Exceptions\obj\Debug\Agent.Exceptions.pdb

@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\bin\Debug\Properties.exe.config
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\bin\Debug\Properties.exe
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\bin\Debug\Properties.pdb
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\obj\Debug\Properties.exe
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\obj\Debug\Properties.pdb
+D:\OneDrive\Desktop\Wipropractise\day5\Properties\Properties\obj\Debug\Properties.exe.config

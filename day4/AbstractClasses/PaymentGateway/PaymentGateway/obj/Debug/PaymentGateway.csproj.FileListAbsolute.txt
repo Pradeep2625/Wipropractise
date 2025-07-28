@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\bin\Debug\PaymentGateway.exe.config
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\bin\Debug\PaymentGateway.exe
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\bin\Debug\PaymentGateway.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.exe
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\PaymentGateway\PaymentGateway\obj\Debug\PaymentGateway.exe.config

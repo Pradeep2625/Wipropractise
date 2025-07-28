@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\Interfaces\Interfaces\obj\Debug\Interfaces.exe.config

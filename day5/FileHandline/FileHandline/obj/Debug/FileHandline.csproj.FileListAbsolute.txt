@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\bin\Debug\FileHandline.exe.config
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\bin\Debug\FileHandline.exe
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\bin\Debug\FileHandline.pdb
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\obj\Debug\FileHandline.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\obj\Debug\FileHandline.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\obj\Debug\FileHandline.exe
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\obj\Debug\FileHandline.pdb
+D:\OneDrive\Desktop\Wipropractise\day5\FileHandline\FileHandline\obj\Debug\FileHandline.exe.config

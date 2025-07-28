@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practise4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Operation.cs",
+              "RelativeDocumentMoniker": "Practise4\\Operation.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Operation.cs",
+              "RelativeToolTip": "Practise4\\Operation.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:02:35.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practise4",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Practise4.csproj",
+              "RelativeDocumentMoniker": "Practise4\\Practise4.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Practise4.csproj",
+              "RelativeToolTip": "Practise4\\Practise4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T13:34:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryManagement.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\LibraryManagement.cs",
+              "RelativeDocumentMoniker": "Practise4\\LibraryManagement.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\LibraryManagement.cs",
+              "RelativeToolTip": "Practise4\\LibraryManagement.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:26:15.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Program.cs",
+              "RelativeDocumentMoniker": "Practise4\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Program.cs",
+              "RelativeToolTip": "Practise4\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:19:22.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

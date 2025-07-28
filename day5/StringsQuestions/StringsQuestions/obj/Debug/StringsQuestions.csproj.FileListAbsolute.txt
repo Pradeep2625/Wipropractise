@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\bin\Debug\StringsQuestions.exe.config
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\bin\Debug\StringsQuestions.exe
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\bin\Debug\StringsQuestions.pdb
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\obj\Debug\StringsQuestions.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\obj\Debug\StringsQuestions.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\obj\Debug\StringsQuestions.exe
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\obj\Debug\StringsQuestions.pdb
+D:\OneDrive\Desktop\Wipropractise\day5\StringsQuestions\StringsQuestions\obj\Debug\StringsQuestions.exe.config

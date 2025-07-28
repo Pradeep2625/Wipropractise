@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\bin\Debug\Employee.Dal.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\bin\Debug\Employee.Dal.pdb
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\bin\Debug\Employee.Exceptions.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\bin\Debug\Employee.Models.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\bin\Debug\Employee.Exceptions.pdb
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\bin\Debug\Employee.Models.pdb
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\obj\Debug\Employee.Dal.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\obj\Debug\Employee.Dal.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\obj\Debug\Employee.5FB3E42B.Up2Date
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\obj\Debug\Employee.Dal.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Dal\obj\Debug\Employee.Dal.pdb

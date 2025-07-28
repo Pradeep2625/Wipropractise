@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\AgentApplication\bin\Debug\AgentApplication.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\AgentApplication\bin\Debug\AgentApplication.pdb
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\AgentApplication\obj\Debug\AgentApplication.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\AgentApplication\obj\Debug\AgentApplication.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\AgentApplication\obj\Debug\AgentApplication.dll
+D:\OneDrive\Desktop\Wipropractise\AgentApplication\AgentApplication\obj\Debug\AgentApplication.pdb

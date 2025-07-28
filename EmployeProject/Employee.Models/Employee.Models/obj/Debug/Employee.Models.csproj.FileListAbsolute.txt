@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employee.Models\bin\Debug\Employee.Models.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employee.Models\bin\Debug\Employee.Models.pdb
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employee.Models\obj\Debug\Employee.Models.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employee.Models\obj\Debug\Employee.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employee.Models\obj\Debug\Employee.Models.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employee.Models\obj\Debug\Employee.Models.pdb

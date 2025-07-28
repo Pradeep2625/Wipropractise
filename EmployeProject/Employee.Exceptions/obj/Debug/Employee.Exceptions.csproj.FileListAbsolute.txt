@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Exceptions\bin\Debug\Employee.Exceptions.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Exceptions\bin\Debug\Employee.Exceptions.pdb
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Exceptions\obj\Debug\Employee.Exceptions.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Exceptions\obj\Debug\Employee.Exceptions.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Exceptions\obj\Debug\Employee.Exceptions.dll
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Exceptions\obj\Debug\Employee.Exceptions.pdb

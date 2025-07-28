@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
+D:\OneDrive\Desktop\Wipropractise\day4\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe.config

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9387C1CF-A405-4144-A971-AFAC051E7AAA}|..\\Employee.Dal\\Employee.Dal.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.dal\\employeimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06932AF-7006-4E57-A621-EE111C264FB6}|Employ.Main\\Employ.Main.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.models\\employ.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06932AF-7006-4E57-A621-EE111C264FB6}|Employ.Main\\Employ.Main.csproj|solutionrelative:employ.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF66DBE-E59D-4A86-928F-8718D608D8EC}|..\\Employee.Bal\\Employee.Bal.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A800C313-E0D9-4A86-8C3A-6D1390E2211C}|..\\Employee.Exceptions\\Employee.Exceptions.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.exceptions\\employexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9387C1CF-A405-4144-A971-AFAC051E7AAA}|..\\Employee.Dal\\Employee.Dal.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.dal\\iemployedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD38961-1E1A-4151-A0A6-8000E236B7FE}|Employee.Models\\Employee.Models.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.models\\employee.models\\employemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD38961-1E1A-4151-A0A6-8000E236B7FE}|Employee.Models\\Employee.Models.csproj|solutionrelative:employee.models\\employemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Employ.Main||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06932AF-7006-4E57-A621-EE111C264FB6}|Employ.Main\\Employ.Main.csproj|d:\\onedrive\\desktop\\wipropractise\\employeproject\\employee.models\\employ.main\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\Employ.Main\\Program.cs",
+              "RelativeDocumentMoniker": "Employ.Main\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\Employ.Main\\Program.cs",
+              "RelativeToolTip": "Employ.Main\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:24:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "..\\Employee.Bal\\EmployBal.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Bal\\EmployBal.cs",
+              "RelativeToolTip": "..\\Employee.Bal\\EmployBal.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:41:30.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeImpl.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Dal\\EmployeImpl.cs",
+              "RelativeDocumentMoniker": "..\\Employee.Dal\\EmployeImpl.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Dal\\EmployeImpl.cs",
+              "RelativeToolTip": "..\\Employee.Dal\\EmployeImpl.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:34:18.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployExceptions.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Exceptions\\EmployExceptions.cs",
+              "RelativeDocumentMoniker": "..\\Employee.Exceptions\\EmployExceptions.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Exceptions\\EmployExceptions.cs",
+              "RelativeToolTip": "..\\Employee.Exceptions\\EmployExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:32:28.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeModels.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\Employee.Models\\EmployeModels.cs",
+              "RelativeDocumentMoniker": "Employee.Models\\EmployeModels.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\Employee.Models\\EmployeModels.cs",
+              "RelativeToolTip": "Employee.Models\\EmployeModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:21:35.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeDao.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Dal\\IEmployeDao.cs",
+              "RelativeDocumentMoniker": "..\\Employee.Dal\\IEmployeDao.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Dal\\IEmployeDao.cs",
+              "RelativeToolTip": "..\\Employee.Dal\\IEmployeDao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:35:23.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employ.Main",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\Employ.Main\\Employ.Main.csproj",
+              "RelativeDocumentMoniker": "Employ.Main\\Employ.Main.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\EmployeProject\\Employee.Models\\Employ.Main\\Employ.Main.csproj",
+              "RelativeToolTip": "Employ.Main\\Employ.Main.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T10:33:45.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
