@@ -3,6 +3,8 @@ D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employ.Main.exe.config
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employ.Main.exe
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employ.Main.pdb
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj\Debug\Employ.Main.exe
+D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj\Debug\Employ.Main.pdb
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employee.Bal.dll
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employee.Dal.dll
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employee.Exceptions.dll
@@ -12,6 +14,3 @@ D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employee.Exceptions.pdb
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\bin\Debug\Employee.Models.pdb
 D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj\Debug\Employ.M.01B391C1.Up2Date
-D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj\Debug\Employ.Main.exe
-D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj\Debug\Employ.Main.pdb
-D:\OneDrive\Desktop\Wipropractise\EmployeProject\Employee.Models\Employ.Main\obj\Debug\Employ.Main.exe.config

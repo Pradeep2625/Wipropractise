@@ -1,0 +1,8 @@
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\bin\Debug\WithOcp.exe.config
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\bin\Debug\WithOcp.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\bin\Debug\WithOcp.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\obj\Debug\WithOcp.csproj.AssemblyReference.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\obj\Debug\WithOcp.csproj.CoreCompileInputs.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\obj\Debug\WithOcp.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\obj\Debug\WithOcp.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\OCP\WithOcp\obj\Debug\WithOcp.exe.config

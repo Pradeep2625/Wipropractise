@@ -1,0 +1,8 @@
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\bin\Debug\WithoutISP.exe.config
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\bin\Debug\WithoutISP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\bin\Debug\WithoutISP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\obj\Debug\WithoutISP.csproj.AssemblyReference.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\obj\Debug\WithoutISP.csproj.CoreCompileInputs.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\obj\Debug\WithoutISP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\obj\Debug\WithoutISP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\ISP\WithoutISP\obj\Debug\WithoutISP.exe.config

@@ -1,0 +1,8 @@
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\bin\Debug\WithDIP.exe.config
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\bin\Debug\WithDIP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\bin\Debug\WithDIP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\obj\Debug\WithDIP.csproj.AssemblyReference.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\obj\Debug\WithDIP.csproj.CoreCompileInputs.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\obj\Debug\WithDIP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\obj\Debug\WithDIP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\DIP\WithDIP\obj\Debug\WithDIP.exe.config

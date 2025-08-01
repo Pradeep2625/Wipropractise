@@ -31,15 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Employee.Dal">
-      <HintPath>..\Employee.Dal\bin\Debug\Employee.Dal.dll</HintPath>
-    </Reference>
-    <Reference Include="Employee.Exceptions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Employee.Exceptions\bin\Debug\Employee.Exceptions.dll</HintPath>
-    </Reference>
-    <Reference Include="Employee.Models">
-      <HintPath>..\Employee.Models\Employee.Models\bin\Debug\Employee.Models.dll</HintPath>
+    <Reference Include="NunitTesting">
+      <HintPath>..\..\Day8\NunitTesting\NunitTesting\bin\Debug\NunitTesting.exe</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -53,6 +46,20 @@
   <ItemGroup>
     <Compile Include="EmployBal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Employee.Dal\Employee.Dal.csproj">
+      <Project>{9387c1cf-a405-4144-a971-afac051e7aaa}</Project>
+      <Name>Employee.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Employee.Exceptions\Employee.Exceptions.csproj">
+      <Project>{a800c313-e0d9-4a86-8c3a-6d1390e2211c}</Project>
+      <Name>Employee.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Employee.Models\Employee.Models\Employee.Models.csproj">
+      <Project>{2bd38961-1e1a-4151-a0a6-8000e236b7fe}</Project>
+      <Name>Employee.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,10 @@
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\bin\Debug\CalculatorTest.dll
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\bin\Debug\CalculatorTest.pdb
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\bin\Debug\NunitTesting.exe
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\bin\Debug\NunitTesting.pdb
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\bin\Debug\NunitTesting.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\obj\Debug\CalculatorTest.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\obj\Debug\Calculat.02F3B5AA.Up2Date
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\obj\Debug\CalculatorTest.dll
+D:\OneDrive\Desktop\Wipropractise\Day8\CalculatorTest\obj\Debug\CalculatorTest.pdb

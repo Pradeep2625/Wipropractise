@@ -18,7 +18,7 @@ namespace Employ.Main
         {
             employBal = new EmployBal();
         }
-  
+
         public static void AddEmployMain()
         {
             EmployeModels em = new EmployeModels();
@@ -30,7 +30,7 @@ namespace Employ.Main
             Console.Write("Enter Employ designation: ");
             em.Employedesig = Console.ReadLine();
             Console.WriteLine("Enter Employee salary: ");
-            em.Employesalary = Convert.ToDouble (Console.ReadLine());
+            em.Employesalary = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter Employ City Name: ");
             em.Employecity = Console.ReadLine();
 
@@ -57,7 +57,7 @@ namespace Employ.Main
         {
             List<EmployeModels> em = employBal.Showemploybal();
             Console.WriteLine("Employs records found: ");
-            foreach(EmployeModels employe in em)
+            foreach (EmployeModels employe in em)
             {
                 Console.WriteLine(employe);
             }
@@ -67,7 +67,7 @@ namespace Employ.Main
             Console.Write("Enter employe id :");
             int empid = Convert.ToInt32(Console.ReadLine());
             EmployeModels emp = employBal.SearchEmployBal(empid);
-            if(emp != null)
+            if (emp != null)
             {
                 Console.WriteLine(emp);
             }
@@ -81,7 +81,7 @@ namespace Employ.Main
             Console.Write("Enter employe id :");
             int empid = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(employBal.DeleteEmployDao(empid));
-            
+
         }
         public static void ReadFromFileMain()
         {
@@ -106,14 +106,14 @@ namespace Employ.Main
                 Console.WriteLine("7. To Read File");
                 Console.WriteLine("choose your choice:");
                 choice = Convert.ToInt32(Console.ReadLine());
-                switch(choice)
+                switch (choice)
                 {
                     case 1:
                         try
                         {
                             AddEmployMain();
                         }
-                        catch(EmployExceptions e)
+                        catch (EmployExceptions e)
                         {
                             Console.WriteLine(e.Message);
                         }
@@ -158,7 +158,7 @@ namespace Employ.Main
             }
 
             while (choice !=8);
-            
+
         }
     }
 }

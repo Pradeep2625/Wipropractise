@@ -68,13 +68,13 @@ namespace Employee.Bal
                 sb.Append("enter employ id greater than  0! negative numbers are not allowed, ");
                 flag = false;
             }
-            if(employ.Employesalary<10000 || employ.Employesalary>100000)
+            if (employ.Employesalary<10000 || employ.Employesalary>100000)
             {
                 sb.Append("enter salary between 10000 to 100000, ");
                 flag = false;
             }
             return flag;
         }
-        
+
     }
 }

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\exceptionhandlingpract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\exceptionhandlingpract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\bankingpractise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\bankingpractise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\practise4\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -10,11 +22,7 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practise4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\librarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|d:\\onedrive\\desktop\\wipropractise\\day4\\practise4\\practise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\practise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B1C46FC-86C1-4B0F-A00E-560086EBBAF9}|Practise4\\Practise4.csproj|solutionrelative:practise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,19 +41,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExceptionHandlingPract.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\ExceptionHandlingPract.cs",
+              "RelativeDocumentMoniker": "Practise4\\ExceptionHandlingPract.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\ExceptionHandlingPract.cs",
+              "RelativeToolTip": "Practise4\\ExceptionHandlingPract.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wDAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T14:45:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bankingpractise.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Bankingpractise.cs",
+              "RelativeDocumentMoniker": "Practise4\\Bankingpractise.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Bankingpractise.cs",
+              "RelativeToolTip": "Practise4\\Bankingpractise.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:39:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Operation.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Operation.cs",
               "RelativeDocumentMoniker": "Practise4\\Operation.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Operation.cs",
               "RelativeToolTip": "Practise4\\Operation.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T15:02:35.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Practise4",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Practise4.csproj",
               "RelativeDocumentMoniker": "Practise4\\Practise4.csproj",
@@ -63,20 +97,20 @@
               "RelativeDocumentMoniker": "Practise4\\LibraryManagement.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\LibraryManagement.cs",
               "RelativeToolTip": "Practise4\\LibraryManagement.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAwD4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAxwD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T13:26:15.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Program.cs",
               "RelativeDocumentMoniker": "Practise4\\Program.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\Wipropractise\\day4\\Practise4\\Practise4\\Program.cs",
               "RelativeToolTip": "Practise4\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwDEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T16:19:22.64Z",
               "EditorCaption": ""

@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\bin\Debug\Reflections.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\bin\Debug\Reflections.pdb
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\obj\Debug\Reflections.exe
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\obj\Debug\Reflections.pdb
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\obj\Debug\Reflections.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day7\Reflections\Reflections\obj\Debug\Reflecti.DE5363EA.Up2Date

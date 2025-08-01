@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\bin\Debug\NunitTesting.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\bin\Debug\NunitTesting.exe
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\bin\Debug\NunitTesting.pdb
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\obj\Debug\NunitTesting.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\obj\Debug\NunitTesting.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\obj\Debug\NunitTesting.exe
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\obj\Debug\NunitTesting.pdb
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\obj\Debug\NunitTesting.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\bin\Debug\CalculatorTest.dll
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\bin\Debug\CalculatorTest.pdb
+D:\OneDrive\Desktop\Wipropractise\Day8\NunitTesting\NunitTesting\obj\Debug\NunitTes.E0853209.Up2Date

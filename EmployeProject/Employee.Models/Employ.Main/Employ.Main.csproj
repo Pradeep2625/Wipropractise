@@ -36,18 +36,6 @@
     <StartupObject>Employ.Main.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Employee.Bal">
-      <HintPath>..\..\Employee.Bal\bin\Debug\Employee.Bal.dll</HintPath>
-    </Reference>
-    <Reference Include="Employee.Dal">
-      <HintPath>..\..\Employee.Dal\bin\Debug\Employee.Dal.dll</HintPath>
-    </Reference>
-    <Reference Include="Employee.Exceptions">
-      <HintPath>..\..\Employee.Exceptions\bin\Debug\Employee.Exceptions.dll</HintPath>
-    </Reference>
-    <Reference Include="Employee.Models">
-      <HintPath>..\Employee.Models\bin\Debug\Employee.Models.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -63,6 +51,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Employee.Bal\Employee.Bal.csproj">
+      <Project>{7bf66dbe-e59d-4a86-928f-8718d608d8ec}</Project>
+      <Name>Employee.Bal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Employee.Dal\Employee.Dal.csproj">
+      <Project>{9387c1cf-a405-4144-a971-afac051e7aaa}</Project>
+      <Name>Employee.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Employee.Exceptions\Employee.Exceptions.csproj">
+      <Project>{a800c313-e0d9-4a86-8c3a-6d1390e2211c}</Project>
+      <Name>Employee.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Employee.Models\Employee.Models.csproj">
+      <Project>{2bd38961-1e1a-4151-a0a6-8000e236b7fe}</Project>
+      <Name>Employee.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

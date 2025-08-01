@@ -16,7 +16,7 @@ namespace Employee.Dal
         string UpdateEmployeDao(EmployeModels updateemploy);
         EmployeModels SearchEmployeDao(int empid);
         string WriteToFileDao();
-        string ReadFromFileDao ();
-        
+        string ReadFromFileDao();
+
     }
 }

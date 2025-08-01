@@ -1,0 +1,7 @@
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\bin\Debug\WithLSP.exe.config
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\bin\Debug\WithLSP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\bin\Debug\WithLSP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\obj\Debug\WithLSP.csproj.AssemblyReference.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\obj\Debug\WithLSP.csproj.CoreCompileInputs.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\obj\Debug\WithLSP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\LSP\WithLSP\obj\Debug\WithLSP.pdb

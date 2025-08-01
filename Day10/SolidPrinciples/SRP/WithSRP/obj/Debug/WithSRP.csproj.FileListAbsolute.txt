@@ -1,0 +1,8 @@
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\bin\Debug\WithSRP.exe.config
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\bin\Debug\WithSRP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\bin\Debug\WithSRP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\obj\Debug\WithSRP.csproj.AssemblyReference.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\obj\Debug\WithSRP.csproj.CoreCompileInputs.cache
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\obj\Debug\WithSRP.exe
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\obj\Debug\WithSRP.pdb
+C:\Users\akula\OneDrive\Desktop\Pradeep\Day9\SolidPrinciples\SRP\WithSRP\obj\Debug\WithSRP.exe.config

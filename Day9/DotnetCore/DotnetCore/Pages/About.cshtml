@@ -1,0 +1,13 @@
+﻿@page
+@model DotnetCore.Pages.AboutModel
+@{
+    ViewData["Title"] = "About";
+    ViewData["Name"] = "Pradeep";
+    ViewData["Place"] = "RJY";
+    ViewData["Designation"] = "Developer";
+}
+<h1 class="display-4">About</h1>
+<p>This is a sample application to demonstrate ASP.NET Core Razor Pages.</p>
+<p>Created by:<b> @ViewData["Name"]</b></p>
+<p>Location: <b>@ViewData["Place"]</b></p>
+<p>Designation: <b>@ViewData["Designation"]</b></p>

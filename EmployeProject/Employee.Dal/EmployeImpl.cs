@@ -12,7 +12,8 @@ namespace Employee.Dal
     public class EmployeImpl : IEmployeDao
     {
         static List<EmployeModels> employlist;
-        public EmployeImpl() { 
+        public EmployeImpl()
+        {
             employlist = new List<EmployeModels>();
         }
         public string AddEmployeDao(EmployeModels employ)
@@ -24,13 +25,13 @@ namespace Employee.Dal
         public string DeleteEmployeDao(int empid)
         {
             EmployeModels employfound = SearchEmployeDao(empid);
-            if(employfound != null)
+            if (employfound != null)
             {
                 employlist.Remove(employfound);
                 return "employ deleted successfully";
             }
             return "given employ id not found";
-            
+
         }
 
         public string ReadFromFileDao()
@@ -46,13 +47,13 @@ namespace Employee.Dal
         public EmployeModels SearchEmployeDao(int empid)
         {
             EmployeModels employfound = null;
-            foreach(EmployeModels show in employlist)
+            foreach (EmployeModels show in employlist)
             {
-                if(show.Employeid == empid)
+                if (show.Employeid == empid)
                 {
                     employfound = show;
                 }
-                
+
             }
             return employfound;
         }
@@ -65,7 +66,7 @@ namespace Employee.Dal
         public string UpdateEmployeDao(EmployeModels updateemploy)
         {
             EmployeModels employfound = SearchEmployeDao(updateemploy.Employeid);
-            if(employfound != null)
+            if (employfound != null)
             {
                 employfound.Employname = updateemploy.Employname;
                 employfound.Employeid = updateemploy.Employeid;
@@ -75,7 +76,7 @@ namespace Employee.Dal
                 Console.WriteLine("successfully updated the record");
             }
             return "employ not found";
-            
+
         }
 
         public string WriteToFileDao()

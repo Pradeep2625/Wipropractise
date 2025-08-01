@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practise4.Opeartion</StartupObject>
+    <StartupObject>Practise4.ExceptionHandlingPract</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bankingpractise.cs" />
+    <Compile Include="ExceptionHandlingPract.cs" />
     <Compile Include="LibraryManagement.cs" />
     <Compile Include="Operation.cs" />
     <Compile Include="Program.cs" />

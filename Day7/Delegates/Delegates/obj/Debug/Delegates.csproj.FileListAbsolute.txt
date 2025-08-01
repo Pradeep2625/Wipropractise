@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\OneDrive\Desktop\Wipropractise\Day6\Delegates\Delegates\obj\Debug\Delegates.exe.config

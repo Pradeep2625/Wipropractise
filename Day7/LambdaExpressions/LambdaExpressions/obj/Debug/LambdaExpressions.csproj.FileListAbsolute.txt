@@ -1,0 +1,8 @@
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+D:\OneDrive\Desktop\Wipropractise\Day7\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe.config

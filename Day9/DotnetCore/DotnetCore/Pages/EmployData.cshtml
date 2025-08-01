@@ -1,0 +1,25 @@
+﻿@page
+@model DotnetCore.Pages.Shared.EmployDataModel
+@{
+    ViewData["Title"] = "Employs Data";
+}
+<h2>Employs Data</h2>
+<table border="1">
+    <thead>
+        <tr>
+            <th> Employee ID </th>
+            <th> Employee Name </th>
+            <th> Designation </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model.employData)
+        {
+            <tr>
+                <td>@emp.EmployId</td>
+                <td>@emp.EmpName</td>
+                <td>@emp.Designation</td>
+            </tr>
+        }
+    </tbody>
+</table>
