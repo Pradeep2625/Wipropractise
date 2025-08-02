@@ -13,7 +13,9 @@
           "NUnit": "3.14.0",
           "NUnit.Analyzers": "3.9.0",
           "NUnit3TestAdapter": "4.5.0",
-          "coverlet.collector": "6.0.0"
+          "coverlet.collector": "6.0.0",
+          "Employee.Bal": "1.0.0.0",
+          "Employee.Dal": "1.0.0.0"
         },
         "runtime": {
           "TestCalculator.dll": {}
@@ -335,6 +337,30 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Employee.Bal/1.0.0.0": {
+        "runtime": {
+          "Employee.Bal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Employee.Dal/1.0.0.0": {
+        "runtime": {
+          "Employee.Dal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Employee.Models/1.0.0.0": {
+        "runtime": {
+          "Employee.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -442,6 +468,21 @@
     },
     "NunitTesting/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Bal/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Dal/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Models/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

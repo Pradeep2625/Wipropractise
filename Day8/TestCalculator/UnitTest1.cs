@@ -24,7 +24,7 @@ namespace TestCalculator
         {
             CalcMain calc1 = new CalcMain();
             //decimal result = calc1.Dvision(10,0);
-            Assert.Catch<DivideByZeroException>(() =>  calc1.Dvision(10,0));
+            Assert.Catch<DivideByZeroException>(() =>  calc1.Dvision(10,1));
         }
     }
 }

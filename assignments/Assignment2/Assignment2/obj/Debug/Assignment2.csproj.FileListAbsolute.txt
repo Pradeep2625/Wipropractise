@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment2\Assignment2\obj\Debug\Assignment2.dll
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment2\Assignment2\obj\Debug\Assignme.583E0B72.Up2Date

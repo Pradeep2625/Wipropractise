@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment1\Assignment1\bin\Debug\Assignment1.dll
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+D:\OneDrive\Desktop\Wipropractise\assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
