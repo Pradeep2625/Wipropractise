@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "68934f736901b5b0edf044a2"
+  },
+  "username": "johndoe",
+  "email": "john@example.com",
+  "password_hash": "hashed-password-here",
+  "created_at": {
+    "$date": "2025-08-06T09:30:00.000Z"
+  },
+  "roles": [
+    "customer"
+  ]
+}]

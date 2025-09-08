@@ -18,6 +18,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Assignment1\Assignment1.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Assignment1">
       <HintPath>..\Assignment1\bin\Debug\Assignment1.dll</HintPath>
     </Reference>

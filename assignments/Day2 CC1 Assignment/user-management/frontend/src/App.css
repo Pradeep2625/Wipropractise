@@ -1,0 +1,56 @@
+/* Reset */
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* spacing between input and button */
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  background: #f9f9f9;
+  margin: 8px auto; /* auto → centers each card */
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 16px;
+  border: 1px solid #eee;
+  width: 80%; /* makes cards narrower */
+  text-align: center; /* centers text */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+li:hover {
+  transform: scale(1.02);
+  box-shadow: 0px 3px 10px rgba(199, 174, 174, 0.1);
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f6f9;
+  margin: 0;
+  padding: 0;
+  color: #1b1919;
+
+  /* 🔑 Center everything */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* keep content top-aligned */
+  min-height: 100vh;
+}
+
+/* Main container */
+.container {
+  width: 600px;
+  margin-top: 40px;
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 15px rgba(16, 163, 53, 0.1);
+  text-align: center;
+}

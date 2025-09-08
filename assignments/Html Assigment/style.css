@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar spacing */
+.navbar-nav {
+  display: flex;
+  gap: 1rem;
+}
+
+/* Home page text styling */
+h1,
+h2 {
+  color: #2c3e50;
+}
+
+/* Responsive table font size for mobile */
+@media (max-width: 768px) {
+  .table {
+    font-size: 14px;
+  }
+  h1,
+  h2 {
+    font-size: 1.5rem;
+  }
+}

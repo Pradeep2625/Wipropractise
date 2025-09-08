@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Objectconstructor</title>
+  </head>
+  <body>
+    <h1>js onject constructor</h1>
+    <p id="demo"></p>
+    <p id="fullname"></p>
+    <script>
+      function person(firstname, lastname, age) {
+        this.firstname = firstname;
+        this.lastname = lastname;
+        this.age = age;
+        this.fullName = function () {
+          return this.firstname + " " + this.lastname;
+        };
+      }
+      const myFather = new person("John", "Doe", 50);
+      const myMother = new person("Jane", "Doe", 48);
+      document.getElementById("demo").innerHTML =
+        "Father: " +
+        myFather.firstname +
+        " " +
+        myFather.lastname +
+        ", Age: " +
+        myFather.age +
+        "<br>" +
+        "Mother: " +
+        myMother.firstname +
+        " " +
+        myMother.lastname +
+        ", Age: " +
+        myMother.age;
+      document.getElementById("fullname").innerHTML = myFather.fullName();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "68934d876901b5b0edf0449f"
+  },
+  "name": "iPhone 14",
+  "category": "Electronics",
+  "brand": "Apple",
+  "price": 80000,
+  "stock": 120,
+  "specs": {
+    "color": "Black",
+    "storage": "128GB",
+    "camera": "12MP"
+  }
+},
+{
+  "_id": {
+    "$oid": "68934daf6901b5b0edf044a0"
+  },
+  "name": "Men's T-Shirt",
+  "category": "Apparel",
+  "brand": "H&M",
+  "price": 19.99,
+  "stock": 500,
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "colors": [
+    "Black",
+    "White",
+    "Blue"
+  ]
+}]

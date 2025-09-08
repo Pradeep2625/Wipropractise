@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "68934f156901b5b0edf044a1"
+  },
+  "order_date": {
+    "$date": "2025-08-06T10:00:00.000Z"
+  },
+  "status": "Shipped",
+  "total_amount": 859.97,
+  "items": [
+    {
+      "name": "iPhone 14",
+      "price": 799.99,
+      "quantity": 1
+    },
+    {
+      "name": "Phone Case",
+      "price": 29.99,
+      "quantity": 2
+    }
+  ],
+  "shipping_address": {
+    "line1": "123 Main St",
+    "city": "Bangalore",
+    "state": "KA",
+    "zip": "560001"
+  }
+}]

@@ -377,6 +377,15 @@
             "related": ".xml"
           }
         }
+      },
+      "Assignment1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Assignment1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assignment1.dll": {}
+        }
       }
     }
   },
@@ -970,10 +979,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Assignment1/1.0.0": {
+      "type": "project",
+      "path": "../Assignment1/Assignment1.csproj",
+      "msbuildProject": "../Assignment1/Assignment1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Assignment1 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -1013,7 +1028,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\OneDrive\\Desktop\\Wipropractise\\assignments\\Assignment1\\Assignment1\\Assignment1.csproj": {
+              "projectPath": "D:\\OneDrive\\Desktop\\Wipropractise\\assignments\\Assignment1\\Assignment1\\Assignment1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Functions</h1>
+    <h1>object.create()</h1>
+    <p id="demo"></p>
+    <script>
+      const person = {
+        name: "John",
+        age: 30,
+      };
+
+      const employee = Object.create(person);
+      employee.jobTitle = "Software Engineer";
+
+      document.getElementById("demo").innerHTML =
+        "Employee Name: " +
+        employee.name +
+        " " +
+        "Employee age: " +
+        employee.age +
+        " " +
+        "employee.jobTitle: " +
+        employee.jobTitle;
+    </script>
+  </body>
+</html>

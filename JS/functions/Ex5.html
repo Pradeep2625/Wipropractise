@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS Objects</title>
+  </head>
+  <body>
+    <h1>js objects</h1>
+    <h2>object.formEntries()</h2>
+    <p id="demo"></p>
+    <script>
+      const person = [
+        ["john", 30, "RJY"],
+        ["deepu", 23, "HYD"],
+        ["pradeep", 22, "BBS"],
+      ];
+
+      const entries = Object.fromEntries(person);
+      document.getElementById("demo").innerHTML = entries.deepu;
+    </script>
+  </body>
+</html>

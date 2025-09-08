@@ -1,2 +1,14 @@
-documents
-.vs
+node_modules/
+dist/
+build/
+bin/
+obj/
+.vs/
+.idea/
+*.zip
+*.mp4
+*.exe
+*.dll
+*.pdb
+*.log
+*.pdf

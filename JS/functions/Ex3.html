@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ObjectDotAssign</title>
+  </head>
+  <body>
+    <h1>JavaScript Objects</h1>
+    <h2>The Object.assign() Method</h2>
+    <p id="demo"></p>
+    <script>
+      const person1 = { name: "pradeep", age: 22, city: "rjy" };
+      const person2 = { name: "deepu", age: 23, city: "hyd" };
+
+      let result = Object.assign(person1, person2);
+      document.getElementById("demo").innerHTML =
+        "The result is: " + JSON.stringify(result);
+    </script>
+  </body>
+</html>
